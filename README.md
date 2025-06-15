@@ -83,3 +83,8 @@ For example:
 ### Gateway API
 
 - `GET /api/gateway/status` - Check the gateway status
+
+
+### Reference articles
+
+- https://mehmetozkaya.medium.com/api-gateways-with-yarp-reverse-proxy-in-net-8-microservices-58c5565697d0
